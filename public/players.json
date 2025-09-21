@@ -1,0 +1,122 @@
+[
+  {
+    "player_name": "Virat Kohli",
+    "player_img": "https://i.ibb.co/zhHB3SfH/viral-img.webp",
+    "player_role": "Batsman",
+    "rating": 10,
+    "player_country": "India",
+    "bowling_style": "Right-arm medium",
+    "batting_style": "Right-hand bat",
+    "price": "₹17 Crore"
+  },
+  {
+    "player_name": "Rohit Sharma",
+    "player_img": "url_to_rohit_sharma_image.jpg",
+    "player_role": "Batsman",
+    "rating": 9,
+    "player_country": "India",
+    "bowling_style": "Right-arm offbreak",
+    "batting_style": "Right-hand bat",
+    "price": "₹16 Crore"
+  },
+  {
+    "player_name": "Jasprit Bumrah",
+    "player_img": "url_to_jasprit_bumrah_image.jpg",
+    "player_role": "Bowler",
+    "rating": 10,
+    "player_country": "India",
+    "bowling_style": "Right-arm fast",
+    "batting_style": "Right-hand bat",
+    "price": "₹18 Crore"
+  },
+  {
+    "player_name": "MS Dhoni",
+    "player_img": "url_to_ms_dhoni_image.jpg",
+    "player_role": "Wicket-keeper Batsman",
+    "rating": 9,
+    "player_country": "India",
+    "bowling_style": "Right-arm medium",
+    "batting_style": "Right-hand bat",
+    "price": "₹12 Crore"
+  },
+  {
+    "player_name": "Ravindra Jadeja",
+    "player_img": "url_to_ravindra_jadeja_image.jpg",
+    "player_role": "All-rounder",
+    "rating": 9,
+    "player_country": "India",
+    "bowling_style": "Left-arm orthodox",
+    "batting_style": "Left-hand bat",
+    "price": "₹16 Crore"
+  },
+  {
+    "player_name": "Hardik Pandya",
+    "player_img": "url_to_hardik_pandya_image.jpg",
+    "player_role": "All-rounder",
+    "rating": 8,
+    "player_country": "India",
+    "bowling_style": "Right-arm medium-fast",
+    "batting_style": "Right-hand bat",
+    "price": "₹15 Crore"
+  },
+  {
+    "player_name": "Rishabh Pant",
+    "player_img": "url_to_rishabh_pant_image.jpg",
+    "player_role": "Wicket-keeper Batsman",
+    "rating": 8,
+    "player_country": "India",
+    "bowling_style": "N/A",
+    "batting_style": "Left-hand bat",
+    "price": "₹14 Crore"
+  },
+  {
+    "player_name": "Shubman Gill",
+    "player_img": "url_to_shubman_gill_image.jpg",
+    "player_role": "Batsman",
+    "rating": 8,
+    "player_country": "India",
+    "bowling_style": "Right-arm offbreak",
+    "batting_style": "Right-hand bat",
+    "price": "₹12 Crore"
+  },
+  {
+    "player_name": "KL Rahul",
+    "player_img": "url_to_kl_rahul_image.jpg",
+    "player_role": "Wicket-keeper Batsman",
+    "rating": 7,
+    "player_country": "India",
+    "bowling_style": "N/A",
+    "batting_style": "Right-hand bat",
+    "price": "₹11 Crore"
+  },
+  {
+    "player_name": "Mohammed Siraj",
+    "player_img": "url_to_mohammed_siraj_image.jpg",
+    "player_role": "Bowler",
+    "rating": 8,
+    "player_country": "India",
+    "bowling_style": "Right-arm fast-medium",
+    "batting_style": "Right-hand bat",
+    "price": "₹10 Crore"
+  },
+  {
+    "player_name": "Kuldeep Yadav",
+    "player_img": "url_to_kuldeep_yadav_image.jpg",
+    "player_role": "Bowler",
+    "rating": 8,
+    "player_country": "India",
+    "bowling_style": "Left-arm chinaman",
+    "batting_style": "Left-hand bat",
+    "price": "₹9 Crore"
+  },
+  {
+    "player_name": "Suryakumar Yadav",
+    "player_img": "url_to_surya_kumar_yadav_image.jpg",
+    "player_role": "Batsman",
+    "rating": 9,
+    "player_country": "India",
+    "bowling_style": "Right-arm offbreak",
+    "batting_style": "Right-hand bat",
+    "price": "₹13 Crore"
+  }
+]
