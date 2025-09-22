@@ -7,7 +7,7 @@ const AvailablePlayers = ({ playersPromise }) => {
   return (
     <div className="w-[85%] mx-auto mt-8 grid md:grid-cols-3 grid-cols-1 gap-4">
       {playerData.map((player) => (
-        <div class="card bg-base-100 shadow-sm p-6 border border-black">
+        <div class="card bg-base-100 shadow-sm p-6">
           <figure>
             <img
               src={player.player_img}

@@ -1,7 +1,7 @@
 import React from "react";
 
 const SelectedPlayers = () => {
-  return <div>selected</div>;
+  return <div className="w-[85%] mx-auto">selected</div>;
 };
 
 export default SelectedPlayers;

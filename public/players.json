@@ -41,7 +41,7 @@
   },
   {
     "player_name": "Ravindra Jadeja",
-    "player_img": "url_to_ravindra_jadeja_image.jpg",
+    "player_img": "https://i.ibb.co/zhHB3SfH/viral-img.webp",
     "player_role": "All-rounder",
     "rating": 9,
     "player_country": "India",
@@ -51,7 +51,7 @@
   },
   {
     "player_name": "Hardik Pandya",
-    "player_img": "url_to_hardik_pandya_image.jpg",
+    "player_img": "https://i.ibb.co/Z6bbLkWD/Rohit-Sharma.jpg",
     "player_role": "All-rounder",
     "rating": 8,
     "player_country": "India",
@@ -61,7 +61,7 @@
   },
   {
     "player_name": "Rishabh Pant",
-    "player_img": "url_to_rishabh_pant_image.jpg",
+    "player_img": "https://i.ibb.co/4RJL0yFW/MS-Dhoni.jpg",
     "player_role": "Wicket-keeper Batsman",
     "rating": 8,
     "player_country": "India",
@@ -71,7 +71,7 @@
   },
   {
     "player_name": "Shubman Gill",
-    "player_img": "url_to_shubman_gill_image.jpg",
+    "player_img": "https://i.ibb.co/23bHMcnm/Jasprit-Bumrah.webp",
     "player_role": "Batsman",
     "rating": 8,
     "player_country": "India",
@@ -81,7 +81,7 @@
   },
   {
     "player_name": "KL Rahul",
-    "player_img": "url_to_kl_rahul_image.jpg",
+    "player_img": "https://i.ibb.co/zhHB3SfH/viral-img.webp",
     "player_role": "Wicket-keeper Batsman",
     "rating": 7,
     "player_country": "India",
@@ -91,7 +91,7 @@
   },
   {
     "player_name": "Mohammed Siraj",
-    "player_img": "url_to_mohammed_siraj_image.jpg",
+    "player_img": "https://i.ibb.co/Z6bbLkWD/Rohit-Sharma.jpg",
     "player_role": "Bowler",
     "rating": 8,
     "player_country": "India",
@@ -101,7 +101,7 @@
   },
   {
     "player_name": "Kuldeep Yadav",
-    "player_img": "url_to_kuldeep_yadav_image.jpg",
+    "player_img": "https://i.ibb.co/4RJL0yFW/MS-Dhoni.jpg",
     "player_role": "Bowler",
     "rating": 8,
     "player_country": "India",
@@ -111,7 +111,7 @@
   },
   {
     "player_name": "Suryakumar Yadav",
-    "player_img": "url_to_surya_kumar_yadav_image.jpg",
+    "player_img": "https://i.ibb.co/23bHMcnm/Jasprit-Bumrah.webp",
     "player_role": "Batsman",
     "rating": 9,
     "player_country": "India",
