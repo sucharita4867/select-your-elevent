@@ -1,4 +1,5 @@
 import "./App.css";
+import { ToastContainer } from "react-toastify";
 
 import AvailablePlayers from "./components/AvailablePlayers/AvailablePlayers";
 import SelectedPlayers from "./components/SelectedPlayers/SelectedPlayers";
@@ -23,7 +24,7 @@ function App() {
     setPurchasedPlayers(filteredData);
     setAvailableBalance(availableBalance + p.price);
   };
-
+  // const addPlayers = () => {};
   return (
     <>
       <Navbar availableBalance={availableBalance}></Navbar>
@@ -53,7 +54,6 @@ function App() {
           </button>
         </div>
       </div>
-
       {toggle === true ? (
         <Suspense
           fallback={<span class="loading loading-dots loading-xl"></span>}
@@ -68,10 +68,13 @@ function App() {
         </Suspense>
       ) : (
         <SelectedPlayers
+          toggle={toggle}
+          setToggle={setToggle}
           removePlayer={removePlayer}
           purchasedPlayers={purchasedPlayers}
         ></SelectedPlayers>
       )}
+      <ToastContainer />
     </>
   );
 }
