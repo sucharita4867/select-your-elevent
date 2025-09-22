@@ -9,7 +9,7 @@ const AvailablePlayers = ({
   setPurchasedPlayers,
 }) => {
   const playerData = use(playersPromise);
-  console.log(playerData);
+  // console.log(playerData);
   return (
     <div className="w-[85%] mx-auto mt-8 grid md:grid-cols-3 grid-cols-1 gap-4">
       {playerData.map((player) => (

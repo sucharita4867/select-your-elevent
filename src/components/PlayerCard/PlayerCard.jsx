@@ -11,8 +11,8 @@ const PlayerCard = ({
   const [isSelected, setIsSelected] = useState(false);
 
   const handleSelected = (playerData) => {
-    const playerprice = playerData.price;
-    if (availableBalance < playerprice) {
+    const playerPrice = playerData.price;
+    if (availableBalance < playerPrice) {
       alert("not enough coin");
       return;
     }
