@@ -7,7 +7,7 @@
     "player_country": "India",
     "bowling_style": "Right-arm medium",
     "batting_style": "Right-hand bat",
-    "price": "₹17 Crore"
+    "price": 170000000
   },
   {
     "player_name": "Rohit Sharma",
@@ -17,7 +17,7 @@
     "player_country": "India",
     "bowling_style": "Right-arm offbreak",
     "batting_style": "Right-hand bat",
-    "price": "₹16 Crore"
+    "price": 160000000
   },
   {
     "player_name": "MS Dhoni",
@@ -27,7 +27,7 @@
     "player_country": "India",
     "bowling_style": "Right-arm medium",
     "batting_style": "Right-hand bat",
-    "price": "₹12 Crore"
+    "price": 120000000
   },
   {
     "player_name": "Jasprit Bumrah",
@@ -37,7 +37,7 @@
     "player_country": "India",
     "bowling_style": "Right-arm fast",
     "batting_style": "Right-hand bat",
-    "price": "₹18 Crore"
+    "price": 180000000
   },
   {
     "player_name": "Ravindra Jadeja",
@@ -47,7 +47,7 @@
     "player_country": "India",
     "bowling_style": "Left-arm orthodox",
     "batting_style": "Left-hand bat",
-    "price": "₹16 Crore"
+    "price": 160000000
   },
   {
     "player_name": "Hardik Pandya",
@@ -57,7 +57,7 @@
     "player_country": "India",
     "bowling_style": "Right-arm medium-fast",
     "batting_style": "Right-hand bat",
-    "price": "₹15 Crore"
+    "price": 150000000
   },
   {
     "player_name": "Rishabh Pant",
@@ -67,7 +67,7 @@
     "player_country": "India",
     "bowling_style": "N/A",
     "batting_style": "Left-hand bat",
-    "price": "₹14 Crore"
+    "price": 140000000
   },
   {
     "player_name": "Shubman Gill",
@@ -77,7 +77,7 @@
     "player_country": "India",
     "bowling_style": "Right-arm offbreak",
     "batting_style": "Right-hand bat",
-    "price": "₹12 Crore"
+    "price": 120000000
   },
   {
     "player_name": "KL Rahul",
@@ -87,7 +87,7 @@
     "player_country": "India",
     "bowling_style": "N/A",
     "batting_style": "Right-hand bat",
-    "price": "₹11 Crore"
+    "price": 110000000
   },
   {
     "player_name": "Mohammed Siraj",
@@ -97,7 +97,7 @@
     "player_country": "India",
     "bowling_style": "Right-arm fast-medium",
     "batting_style": "Right-hand bat",
-    "price": "₹10 Crore"
+    "price": 100000000
   },
   {
     "player_name": "Kuldeep Yadav",
@@ -107,7 +107,7 @@
     "player_country": "India",
     "bowling_style": "Left-arm chinaman",
     "batting_style": "Left-hand bat",
-    "price": "₹9 Crore"
+    "price": 90000000
   },
   {
     "player_name": "Suryakumar Yadav",
@@ -117,6 +117,6 @@
     "player_country": "India",
     "bowling_style": "Right-arm offbreak",
     "batting_style": "Right-hand bat",
-    "price": "₹13 Crore"
+    "price": 130000000
   }
 ]
